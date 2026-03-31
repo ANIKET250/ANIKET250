@@ -1,7 +1,3 @@
-# 💫 About Me:
-# Hi, I'm Aniket<br><br>I'm a programmer.
-
-
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/khanaiya7/?locale=gl_ES) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://fj.linkedin.com/in/aniket-prasad-56596737a) 
 
